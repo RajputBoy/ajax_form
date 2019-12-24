@@ -1,0 +1,26 @@
+.AdHome{
+   text-align:center;
+   }
+ .txtBox{
+  margin-bottom:25px;
+  border:2px solid #ccc ;
+  }
+  .navbar-header{
+	width:100%;
+  }
+.signUP{
+ border:5px solid #ccc;
+ height: 675px; 
+ text-align: center; 
+ width: 450px;
+ }  
+.portfolio{
+ border:5px solid #ccc;
+ height: 600px; 
+ text-align: center; 
+ width: 400px;
+ }
+.admin-form{background:#f4f4f4;padding:15px;margin:100px auto;border:1px solid #ccc;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;}
+
+
+
